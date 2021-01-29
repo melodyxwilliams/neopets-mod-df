@@ -1,0 +1,32 @@
+Implementing concepts from the Neopets universe will be a huge undertaking. Thus, I'm breaking the project up into phases.
+
+PHASES:
+	1:  First phase will consist of implementing the generic versions of each species. They will have the standard color variants, but not the special ones that change the shape of the species, or their material (i.e biscuit). Minimal testing is occuring during this phase, just to ensure the creature is put together correctly.
+	2:  Second phase will be testing the creatures in the arena. Changes might need to be made to make certain pets perform better, or make others less overpowered.
+	- Between these phases I'll need to 'personify' the creatures. Giving them literal personalities and changing some biomes, with the goal to make them more unique.
+	3:  After this testing, I can focus on adding features outside of creatures, such as plants and items.
+	4:  Here I'll be working on a few battledome creatures as megabeasts and semi-megabeasts. 
+	5:  With the creatures and everything in place, I'll finally be able to test the mod in-game. This will be the initial release phase. Likely I'll be making changes to the creatures, bug fixing and making them more playable.
+	6:  The first expansion phase will be color variants, such as Maraquan for the seas.
+	7:  The second expansion phase could be adding some petpets as minor creatures, tbd.
+	
+	Note: During the first and second expansion phase I may decide to add more megabeasts and/or items. Both of these phases are just ideas of how I'll progress once we get there. 
+	
+First stage does not involve personalities, that will come another time, unsure when. Possibly stage 4, at least before phase 6.
+	
+TODO: Add a reaction to take the elephante gem and turn it into something usable (create a new gem type)
+I also need to make an excel document listing the creatures and their sizes, both in Neopets and the body sizes in the creature file, so as to 'standardize' them and make them more accurate.
+Revisit Elephante and Peophin for gems in their head.
+
+-done Give most all creatures swims-innate
+
+add personalities
+
+-done give creatures eyelids
+
+-done throats??
+
+---
+	
+As long as I manage to get at least one creature done per day, preferrably two, I'll be on track to actually finish this mod. My biggest concern is accidentally losing interest by taking a break. I need to make sure this doesn't happen. My goal is eventually to make a fully functioning mod and release it for the community.
+I started embarking on this endeavor for my own sake. It gives me something to do, and it would be a fun mod for me to play. However the community has spoken, and it's clear they too would enjoy this mod. Thus, I'd like to actually release something.
