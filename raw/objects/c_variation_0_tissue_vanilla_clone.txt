@@ -2,6 +2,7 @@ c_variation_0_tissue_vanilla_clone
 
 [OBJECT:CREATURE_VARIATION]
 
+Note: this file was provided by forum user Huge_the_Dwarf. 
 Arg1 is the creature
 [CREATURE_VARIATION:STANDARD_CREATURE_TISSUES]
 	[CV_NEW_TAG:USE_TISSUE_TEMPLATE:SKIN:SKIN_TEMPLATE]
