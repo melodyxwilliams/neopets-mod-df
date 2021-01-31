@@ -1965,7 +1965,7 @@ creature_neopet_generic
 			[TL_COLOR_MODIFIER:YELLOW:1:BLUE:1:BROWN:1:GREEN:1:ORANGE:1:PINK:1:PURPLE:1:RED:1:WHITE:1]
 				[TLCM_NOUN:feathers:SINGULAR]
 
-[CREATURE:FLOTSAM] supposedly able to walk on land, I'm going with aquatic for now because it would be silly seeing a dolphin speed through the grass like a gokart. They don't even have legs, cmon now Neopets...
+[CREATURE:FLOTSAM]
 	[DESCRIPTION:A very small, dolphin-like Neopet, capable of sensing danger by studying the water temperature and movement of the clouds.]
 	[NAME:flotsam:flotsams:flotsam]
 	[CASTE_NAME:flotsam:flotsams:flotsam]
@@ -1973,7 +1973,7 @@ creature_neopet_generic
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:cute face]
 	[TRAINABLE][PET][PETVALUE:50]
-	[DIURNAL][AQUATIC][SWIMS_INNATE]
+	[DIURNAL][AMPHIBIOUS][SWIMS_INNATE]
 	[NATURAL][NO_DRINK]
 	[POPULATION_NUMBER:25:50][FREQUENCY:80]
 	[MAXAGE:15:30][CHILD:1]
@@ -2090,7 +2090,7 @@ creature_neopet_generic
 		[ATTACK_FLAG_CANLATCH]
 	[HOMEOTHERM:10070]
 	[APPLY_CREATURE_VARIATION:STANDARD_SWIMMING_GAITS:900:528:352:176:1900:2900] 50 kph
-	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:9000:8900:8825:8775:9500:9900] 1 kph
+	[APPLY_CREATURE_VARIATION:STANDARD_CRAWLING_GAITS:5341:4723:4112:1254:6433:7900] 7 kph
 	[CASTE:FEMALE]
 		[FEMALE]
 		[LAYS_EGGS]
