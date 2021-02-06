@@ -3977,6 +3977,9 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:40:100]L
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
 
+	[SPHERE:ART]
+	[SPHERE:BEAUTY]
+	[SPHERE:TRICKERY]
 
 [CREATURE:JETSAM] This one I can understand being amphibious.
 	[DESCRIPTION:An amphibious, mini shark-like Neopet that feeds off Flotsams.]
@@ -4170,6 +4173,16 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:50:100]-
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:OCEANS]
+	[SPHERE:SALT]
+	[SPHERE:STRENGTH]
+	[SPHERE:THRALLDOM]
+	[SPHERE:STORMS]
+	[SPHERE:VICTORY]
+	[SPHERE:VALOR]
+	[SPHERE:MURDER]
+	[SPHERE:HUNTING]
 
 [CREATURE:JUBJUB]
 	[DESCRIPTION:A round fluffy Neopet with two feet and no arms.]
@@ -4365,6 +4378,12 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:50:100]-
 
+	[SPHERE:CONSOLATION]
+	[SPHERE:FAMILY]
+	[SPHERE:FATE]
+	[SPHERE:WEALTH]
+	[SPHERE:LUCK]
+
 [CREATURE:KACHEEK]
 	[DESCRIPTION:A small, shy Neopet that loves making new friends]
 	[NAME:kacheek:kacheeks:kacheek]
@@ -4554,6 +4573,11 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:80:100]RRR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:LOVE]
+	[SPHERE:PEACE]
+	[SPHERE:REVELRY]
+	[SPHERE:MUSIC]
 
 [CREATURE:KAU]
 	[DESCRIPTION:A cow-like Neopet that loves milk, singing and magic.]
@@ -4798,6 +4822,11 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:60:100]R
 
+	[SPHERE:LUCK]
+	[SPHERE:FAMILY]
+	[SPHERE:YOUTH]
+	[SPHERE:SONG]
+
 [CREATURE:KIKO]
 	[DESCRIPTION:A round, floating Neopet with 2 arms and no legs. They are playful creatures who like exciting thrills and spills like theme parks and water jets.]
 	[NAME:kiko:kiko:kiko]
@@ -4974,6 +5003,8 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:80:100]RRR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:LAKES]
 
 [CREATURE:KOI]
 	[DESCRIPTION:An aquatic Neopet that is curious with a knack for inventing.]
@@ -5168,6 +5199,12 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:70:100]RR
 	[PERSONALITY:ART_INCLINED:0:60:100]R
 
+	[SPHERE:CRAFTS]
+	[SPHERE:FISH]
+	[SPHERE:JEWELS]
+	[SPHERE:LABOR]
+	[SPHERE:OCEANS]
+
 [CREATURE:KORBAT]
 	[DESCRIPTION:A nocturnal, bat-like Neopet with a keen sense of smell. Despite their vampiric appearance, they are almost always friendly and welcoming.] second sentence from the site description.
 	[NAME:korbat:korbats:korbat]
@@ -5359,6 +5396,10 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:50:100]-
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:NIGHT]
+	[SPHERE:TWILIGHT]
+	[SPHERE:REVENGE]
 
 [CREATURE:KOUGRA]
 	[DESCRIPTION:A tiger-like Neopet that loves exotic fruits.]
@@ -5570,6 +5611,9 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:FOOD]
+	[SPHERE:TRAVELERS]
 
 [CREATURE:KRAWK]
 	[DESCRIPTION:A biped crocodile-like Neopet that loves getting into trouble.]
@@ -5783,6 +5827,13 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:40:100]L
 	[PERSONALITY:ART_INCLINED:0:40:100]L
 
+	[SPHERE:FAME]
+	[SPHERE:GAMBLING]
+	[SPHERE:JEALOUSY]
+	[SPHERE:RULERSHIP]
+	[SPHERE:WEALTH]
+	[SPHERE:TRICKERY]
+
 [CREATURE:KYRII]
 	[DESCRIPTION:A weasel-like Neopets that enjoy grooming and socializing.]
 	[NAME:kyrii:kyrii:kyrii]
@@ -5974,6 +6025,13 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:50:100]-
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:JEALOUSY]
+	[SPHERE:PERSUASION]
+	[SPHERE:SPEECH]
+	[SPHERE:VICTORY]
+	[SPHERE:FAME]
+	[SPHERE:RUMORS]
 
 [CREATURE:LENNY]
 	[DESCRIPTION:A flamingo-like Neopet that is highly intelligent and very curious.]
@@ -6183,6 +6241,13 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:80:100]RRR
 	[PERSONALITY:ART_INCLINED:0:40:100]L
 
+	[SPHERE:ORDER]
+	[SPHERE:OATHS]
+	[SPHERE:SCHOLARSHIP]
+	[SPHERE:WRITING]
+	[SPHERE:WISDOM]
+	[SPHERE:TRUTH]
+
 [CREATURE:LUPE]
 	[DESCRIPTION:A wolf-like Neopet that is adventurous, brave and loyal.]
 	[NAME:lupe:lupe:lupe]
@@ -6376,6 +6441,15 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:50:100]-
 
+	[SPHERE:VALOR]
+	[SPHERE:STRENGTH]
+	[SPHERE:SACRIFICE]
+	[SPHERE:LOYALTY]
+	[SPHERE:JUSTICE]
+	[SPHERE:HUNTING]
+	[SPHERE:FATE]
+	[SPHERE:COURAGE]
+
 [CREATURE:LUTARI]
 	[DESCRIPTION:A playful, otter-like Neopet that likes to spend most of its time in water.]
 	[NAME:lutari:lutari:lutari]
@@ -6565,6 +6639,12 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:80:100]RRR
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:WATER]
+	[SPHERE:OCEANS]
+	[SPHERE:LAKES]
+	[SPHERE:RIVERS]
+	[SPHERE:RAIN]
 
 [CREATURE:MEERCA]
 	[DESCRIPTION:A trickster Neopet almost similar to a squirrel, featuring a very large tail.]
@@ -6756,6 +6836,10 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:TRICKERY]
+	[SPHERE:FAME]
+	[SPHERE:GAMBLING]
 
 [CREATURE:MOEHOG]
 	[DESCRIPTION:A quadruped Neopet featuring hooves, two curved tusks and a snout.]
@@ -6995,6 +7079,10 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
 
+	[SPHERE:CHARITY]
+	[SPHERE:GENEROSITY]
+	[SPHERE:MUCK]
+
 [CREATURE:MYNCI]
 	[DESCRIPTION:A monkey-like Neopet that uses its tail to grasp things.]
 	[NAME:mynci:mynci:mynci]
@@ -7184,6 +7272,9 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:80:100]RRR
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:TREES]
+	[SPHERE:FOOD]
 
 [CREATURE:NIMMO]
 	[DESCRIPTION:A frog-like Neopet that values peace and harmony, as well as an affinity for martial-arts.]
@@ -7376,6 +7467,14 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:50:100]-
 	[PERSONALITY:ABSTRACT_INCLINED:0:70:100]RR
 	[PERSONALITY:ART_INCLINED:0:50:100]-
+
+	[SPHERE:PEACE]
+	[SPHERE:PERSUASION]
+	[SPHERE:NATURE]
+	[SPHERE:HAPPINESS]
+	[SPHERE:HEALING]
+	[SPHERE:DISCIPLINE]
+	[SPHERE:BALANCE]
 
 [CREATURE:OGRIN]
 	[DESCRIPTION:A fast, shy quadruped Neopet.]
@@ -7586,6 +7685,10 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
 
+	[SPHERE:NATURE]
+	[SPHERE:SCHOLARSHIP]
+	[SPHERE:ANIMALS]
+
 [CREATURE:PEOPHIN]
 	[DESCRIPTION:An aquatic, graceful Neopet with two hooved legs and a long tail that takes the place of hind legs]
 	[NAME:peophin:peophin:peophin]
@@ -7790,6 +7893,12 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:50:100]-
 
+	[SPHERE:WISDOM]
+	[SPHERE:WEALTH]
+	[SPHERE:FATE]
+	[SPHERE:RULERSHIP]
+	[SPHERE:FAME]
+
 [CREATURE:POOGLE]
 	[DESCRIPTION:A cute, cuddly appearing Neopet with sharp teeth.]
 	[NAME:poogle:poogles:poogle]
@@ -7982,6 +8091,13 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
+
+	[SPHERE:CHARITY]
+	[SPHERE:GAMES]
+	[SPHERE:LUCK]
+	[SPHERE:HOSPITALITY]
+	[SPHERE:POETRY]
+	[SPHERE:RAINBOWS]
 
 [CREATURE:PTERI]
 	[DESCRIPTION:A bird-like Neopet that loves playing tricks on those who pass by.]
@@ -8198,6 +8314,12 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:40:100]L
 	[PERSONALITY:ART_INCLINED:0:50:100]-
 
+	[SPHERE:SUN]
+	[SPHERE:SKY]
+	[SPHERE:TRICKERY]
+	[SPHERE:FAMILY]
+	[SPHERE:VOLCANOS]
+
 [CREATURE:QUIGGLE]
 	[DESCRIPTION:A small biped Neopet similar to a frog.]
 	[NAME:quiggle:quiggles:quiggle]
@@ -8390,6 +8512,12 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
+
+	[SPHERE:ART]
+	[SPHERE:PAINTING]
+	[SPHERE:INSPIRATION]
+	[SPHERE:WATER]
+	[SPHERE:LIES]
 
 [CREATURE:RUKI] described as " with tough plated *skin*"
 	[DESCRIPTION:A humanoid insect-like Neopet, originating from the barren regions of the Lost Desert.]
@@ -8589,6 +8717,12 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:80:100]RRR
 
+	[SPHERE:FORTRESSES]
+	[SPHERE:VALOR]
+	[SPHERE:TRAVELERS]
+	[SPHERE:COURAGE]
+	[SPHERE:FIRE]
+
 [CREATURE:SCORCHIO]
 	[DESCRIPTION:A winged biped Neopet that loves hot climates.]
 	[NAME:scorchio:scorchio:scorchio]
@@ -8787,6 +8921,10 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:50:100]-
 
+	[SPHERE:FIRE]
+	[SPHERE:VOLCANOS]
+	[SPHERE:SUN]
+
 [CREATURE:SHOYRU]
 	[DESCRIPTION:A winged biped Neopet that loves to fly, similar to a baby dragon.]
 	[NAME:shoyru:shoyru:shoyru]
@@ -8980,6 +9118,9 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:SKY]
+	[SPHERE:HAPPINESS]
 
 [CREATURE:SKEITH]
 	[DESCRIPTION:A large Neopet that loves eating.]
@@ -9190,6 +9331,10 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:30:100]LL
 	[PERSONALITY:ART_INCLINED:0:30:100]LL
 
+	[SPHERE:RULERSHIP]
+	[SPHERE:THRALLDOM]
+	[SPHERE:CHAOS]
+
 [CREATURE:TECHO]
 	[DESCRIPTION:An agile, lizard-like biped Neopet.]
 	[NAME:techo:techos:techo]
@@ -9379,6 +9524,11 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:60:100]R
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:HAPPINESS]
+	[SPHERE:HOSPITALITY]
+	[SPHERE:HEALING]
+	[SPHERE:FREEDOM]
 
 [CREATURE:TONU]
 	[DESCRIPTION:A boisterous Neopet similar to a rhino.]
@@ -9599,6 +9749,13 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:40:100]L
 	[PERSONALITY:ART_INCLINED:0:50:100]-
 
+	[SPHERE:FIRE]
+	[SPHERE:FOOD]
+	[SPHERE:ANIMALS]
+	[SPHERE:STRENGTH]
+	[SPHERE:VALOR]
+	[SPHERE:VICTORY]
+
 [CREATURE:TUSKANINNY]
 	[DESCRIPTION:A seal-like Neopet that has an easy-going attitude.]
 	[NAME:tuskaninny:tuskaninny:tuskaninny]
@@ -9779,6 +9936,9 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:60:100]R
 	[PERSONALITY:ABSTRACT_INCLINED:0:70:100]RR
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:WATER]
+	[SPHERE:DAY]
 
 [CREATURE:UNI]
 	[DESCRIPTION:A unicorn-like Neopet with wings.]
@@ -9992,6 +10152,11 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:40:100]L
 	[PERSONALITY:ART_INCLINED:0:80:100]RRR
 
+	[SPHERE:BEAUTY]
+	[SPHERE:ART]
+	[SPHERE:INSPIRATION]
+	[SPHERE:SKY]
+
 [CREATURE:USUL]
 	[DESCRIPTION:A friendly, squirrel-like biped Neopet with thick fur and a love for beauty.]
 	[NAME:usul:usul:usul]
@@ -10186,6 +10351,10 @@ creature_neopet_generic
 	[PERSONALITY:ABSTRACT_INCLINED:0:40:100]L
 	[PERSONALITY:ART_INCLINED:0:80:100]RRR
 
+	[SPHERE:BEAUTY]
+	[SPHERE:ART]
+	[SPHERE:INSPIRATION]
+
 [CREATURE:WOCKY]
 	[DESCRIPTION:A bold, adventurous Neopet similar to a cat.]
 	[NAME:wocky:wocky:wocky]
@@ -10376,6 +10545,11 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
+
+	[SPHERE:TRAVELERS]
+	[SPHERE:HAPPINESS]
+	[SPHERE:LOVE]
+	[SPHERE:REVELRY]
 
 [CREATURE:Xweetok]
 	[DESCRIPTION:A fast, furry Neopet similar to a cat.]
@@ -10571,6 +10745,12 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:60:100]R
 	[PERSONALITY:ABSTRACT_INCLINED:0:60:100]R
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:HUNTING]
+	[SPHERE:FREEDOM]
+	[SPHERE:BEAUTY]
+	[SPHERE:JEALOUSY]
+	[SPHERE:VALOR]
 
 [CREATURE:YURBLE]
 	[DESCRIPTION:A cute and cheerful biped Neopet.]
@@ -10778,6 +10958,9 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:70:100]RR
+
+	[SPHERE:STRENGTH]
+	[SPHERE:FORTRESSES]
 
 [CREATURE:ZAFARA]
 	[DESCRIPTION:An adventurous Neopet similar to a kangaroo, with large, floppy ears and a long tail.]
@@ -10995,3 +11178,7 @@ creature_neopet_generic
 	[PERSONALITY:IMAGINATION:0:70:100]RR
 	[PERSONALITY:ABSTRACT_INCLINED:0:50:100]-
 	[PERSONALITY:ART_INCLINED:0:60:100]R
+
+	[SPHERE:DAY]
+	[SPHERE:TRAVELERS]
+	[SPHERE:NATURE]
