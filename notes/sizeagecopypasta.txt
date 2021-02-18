@@ -24,7 +24,9 @@ entities' creatures copypasta stuff:
 		[USE_TISSUE_TEMPLATE:HORN_IXI:HORN_TEMPLATE] makes a new tissue and uses the existing material
 		[TISSUE_MATERIAL:CREATURE_MAT:IXI:HORN]
 ---
-
+[REMOVE_TISSUE:X_X]
+[USE_TISSUE_TEMPLATE:SKIN_BUZZ:SCALE_TEMPLATE][TISSUE_MATERIAL:CREATURE_MAT:BUZZ:SCALE]
+---
 
 
 
