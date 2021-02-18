@@ -894,7 +894,8 @@ creature_neopet_generic
 	[BODY:HUMANOID_ARMLESS_NECK:TAIL:FACIAL_FEATURES:SIDE_FLIPPERS_GRASP:BEAK:2EYES:2LUNGS:HEART:GUTS:ORGANS:THROAT:NECK:SPINE:BRAIN:SKULL:RIBCAGE]
 	[BODY_DETAIL_PLAN:STANDARD_MATERIALS]
 		[REMOVE_MATERIAL:HAIR]
-		[USE_MATERIAL_TEMPLATE:HAIR:FEATHER_TEMPLATE] hair is actually feathers,
+		per hugo's advice: tissue templates call a local mat that has to have a matching name (ie scale template calls local mat scale, same with feathers)
+		[USE_MATERIAL_TEMPLATE:FEATHER:FEATHER_TEMPLATE] 
 	[BODY_DETAIL_PLAN:STANDARD_TISSUES]
 		[REMOVE_TISSUE:HAIR]
 		[USE_TISSUE_TEMPLATE:HAIR:FEATHER_TEMPLATE] it's for hugo's c_variation + entities
@@ -10643,7 +10644,7 @@ creature_neopet_generic
 	[NATURAL_SKILL:DODGING:3]
 	[NATURAL_SKILL:SITUATIONAL_AWARENESS:5]
 
-[CREATURE:Xweetok]
+[CREATURE:XWEETOK]
 	[DESCRIPTION:A fast, furry Neopet similar to a cat.]
 	[NAME:xweetok:xweetoks:xweetok]
 	[CASTE_NAME:xweetok:xweetoks:xweetok]
