@@ -1,0 +1,19 @@
+item_toy_neopets
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_PLUSHIE]
+  [NAME:plushie:plushies]
+  -HARD_MAT- removed to presumably make them out of soft materials (and the inverse for strange moods)
+
+[ITEM_TOY:ITEM_TOY_USUKI_DOLL]
+  [NAME:usuki doll:usuki dolls]
+  [HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_KEYRING]
+  [NAME:keyring:keyrings]
+  [HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_FAERIE_DOLL]
+  [NAME:faerie doll:faerie dolls]
+  [HARD_MAT]
