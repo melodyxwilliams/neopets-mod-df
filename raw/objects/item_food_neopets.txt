@@ -1,0 +1,64 @@
+item_food_neopets
+
+[OBJECT:ITEM]
+
+===================== TWO INGREDIENTS
+[ITEM_FOOD:ITEM_FOOD_ICE_CREAM]
+[NAME:ice cream cone]
+[LEVEL:2]
+
+[ITEM_FOOD:ITEM_FOOD_CHIA_POP]
+[NAME:chia pop]
+[LEVEL:2]
+
+[ITEM_FOOD:ITEM_FOOD_CUPCAKE]
+[NAME:frosted cupcake]
+[LEVEL:2]
+
+[ITEM_FOOD:ITEM_FOOD_SMOOTHIE]
+[NAME:smoothie]
+[LEVEL:2]
+
+[ITEM_FOOD:ITEM_FOOD_COOKIES]
+[NAME:cookies]
+[LEVEL:2]
+===================== THREE INGREDIENTS
+[ITEM_FOOD:ITEM_FOOD_SANDWICH]
+[NAME:sandwich]
+[LEVEL:3]
+
+[ITEM_FOOD:ITEM_FOOD_SOUP]
+[NAME:soup]
+[LEVEL:3]
+
+[ITEM_FOOD:ITEM_FOOD_BURGER]
+[NAME:burger]
+[LEVEL:3]
+
+[ITEM_FOOD:ITEM_FOOD_HOT_DOG]
+[NAME:hot dog]
+[LEVEL:3]
+
+[ITEM_FOOD:ITEM_FOOD_SALAD]
+[NAME:salad]
+[LEVEL:3]
+===================== FOUR INGREDIENTS
+[ITEM_FOOD:ITEM_FOOD_PIZZA]
+[NAME:pizza]
+[LEVEL:4]
+
+[ITEM_FOOD:ITEM_FOOD_SOUFFLE]
+[NAME:souffle]
+[LEVEL:4]
+
+[ITEM_FOOD:ITEM_FOOD_TRIPLE_DECKER] just for fun
+[NAME:triple decker sandwich]
+[LEVEL:4]
+
+[ITEM_FOOD:ITEM_FOOD_SUSHI]
+[NAME:sushi]
+[LEVEL:4]
+
+[ITEM_FOOD:ITEM_FOOD_BURRITO]
+[NAME:extra stuffed burrito]
+[LEVEL:4]
