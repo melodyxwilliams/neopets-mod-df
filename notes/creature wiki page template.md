@@ -7,7 +7,6 @@ img
 * name/names/name
 * 'tile'
 # Body
-# Biomes
 # Attacks
 # Gaits
 # Spheres
