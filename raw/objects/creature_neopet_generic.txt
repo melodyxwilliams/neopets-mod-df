@@ -10326,6 +10326,7 @@ creature_neopet_generic
 	[NATURAL_SKILL:CONCENTRATION:2]
 	[NATURAL_SKILL:CRITICAL_THINKING:2]
 	[NATURAL_SKILL:DODGING:3]
+
 ==============================================
 [CREATURE:VANDAGYRE]
 	[DESCRIPTION:A feathered biped capable of flight]
@@ -10365,9 +10366,6 @@ creature_neopet_generic
 	[BODY_SIZE:0:0:3000]
 	[BODY_SIZE:2:0:20000]
 	[BODY_SIZE:10:0:60000]
-
-
-
 
 	[SELECT_TISSUE_LAYER:HEART:BY_CATEGORY:HEART]
 		[TL_MAJOR_ARTERIES]
