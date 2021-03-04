@@ -723,6 +723,8 @@ creature_neopet_entity_neopian
 		[USE_TISSUE_TEMPLATE:CLAW_BORI:CLAW_TEMPLATE] makes a new tissue and uses the existing material
 		[TISSUE_MATERIAL:CREATURE_MAT:BORI:CLAW]
 		[TISSUE_LAYER:BY_CATEGORY:TOE:CLAW_BORI:FRONT]
+		[TISSUE_LAYER_BY_CATEGORY:UPPERBODY:BONE_BORI:TOP] - I'm not really sure if this is the correct position.
+		[TISSUE_LAYER_BY_CATEGORY:LOWERBODY:BONE_BORI:TOP] - I'm not really sure if this is the correct position. 
 		[BODYGLOSS:PAW]
 		[BODYGLOSS:CLAW_TOES]
 		[RELSIZE:BY_CATEGORY:FOOT_FRONT:80]
