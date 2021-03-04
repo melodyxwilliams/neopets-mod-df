@@ -2572,6 +2572,7 @@ creature_neopet_generic
 	[NATURAL_SKILL:TRACKING:2]
 	[NATURAL_SKILL:LEADERSHIP:3]
 
+=============================================================
 [CREATURE:FLOTSAM]
 	[DESCRIPTION:A very small, dolphin-like Neopet, capable of sensing danger by studying the water temperature and movement of the clouds.]
 	[NAME:flotsam:flotsams:flotsam]
@@ -3146,8 +3147,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:GRARRL]
 	[DESCRIPTION:A ferocious dinosaur like Neopet, with a big appetite.]
-	[NAME:grarrl:grarrl:grarrl]
-	[CASTE_NAME:grarrl:grarrl:grarrl]
+	[NAME:grarrl:grarrls:grarrl]
+	[CASTE_NAME:grarrl:grarrls:grarrl]
 	[CREATURE_TILE:'G'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:strength]
@@ -3353,8 +3354,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:GRUNDO]
 	[DESCRIPTION:A small alien Neopet, originally from the moon Kreludor.]
-	[NAME:grundo:grundo:grundo]
-	[CASTE_NAME:grundo:grundo:grundo]
+	[NAME:grundo:grundos:grundo]
+	[CASTE_NAME:grundo:grundos:grundo]
 	[CREATURE_TILE:'g'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:escape from Dr. Sloth][PREFSTRING:running of the space station]
