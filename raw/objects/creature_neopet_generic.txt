@@ -5783,7 +5783,7 @@ creature_neopet_generic
 
 ===============================================================================
 [CREATURE:KYRII]
-	[DESCRIPTION:A weasel-like Neopet that enjoy grooming and socializing.]
+	[DESCRIPTION:A weasel-like Neopet that enjoys grooming and socializing.]
 	[NAME:kyrii:kyriis:kyrii]
 	[CASTE_NAME:kyrii:kyriis:kyrii]
 	[CREATURE_TILE:'k'][COLOR:2:1:1]
@@ -5994,8 +5994,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:LENNY]
 	[DESCRIPTION:A flamingo-like Neopet that is highly intelligent and very curious.]
-	[NAME:lenny:lenny:lenny]
-	[CASTE_NAME:lenny:lenny:lenny]
+	[NAME:lenny:lennies:lenny]
+	[CASTE_NAME:lenny:lennies:lenny]
 	[CREATURE_TILE:'l'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:intelligence]
@@ -6227,8 +6227,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:LUPE]
 	[DESCRIPTION:A wolf-like Neopet that is adventurous, brave and loyal.]
-	[NAME:lupe:lupe:lupe]
-	[CASTE_NAME:lupe:lupe:lupe]
+	[NAME:lupe:lupes:lupe]
+	[CASTE_NAME:lupe:lupes:lupe]
 	[CREATURE_TILE:'L'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:loyalty][PREFSTRING:bravery]
@@ -6443,8 +6443,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:LUTARI]
 	[DESCRIPTION:A playful, otter-like Neopet that likes to spend most of its time in water.]
-	[NAME:lutari:lutari:lutari]
-	[CASTE_NAME:lutari:lutari:lutari]
+	[NAME:lutari:lutaris:lutari]
+	[CASTE_NAME:lutari:lutaris:lutari]
 	[CREATURE_TILE:'l'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:excellence in swimming][PREFSTRING:playfulness]
@@ -6632,8 +6632,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:MEERCA]
 	[DESCRIPTION:A trickster Neopet almost similar to a squirrel, featuring a very large tail.]
-	[NAME:meerca:meerca:meerca]
-	[CASTE_NAME:meerca:meerca:meerca]
+	[NAME:meerca:meercas:meerca]
+	[CASTE_NAME:meerca:meercas:meerca]
 	[CREATURE_TILE:'m'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:pranking][PREFSTRING:large tail]
