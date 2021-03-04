@@ -678,7 +678,7 @@ creature_neopet_generic
 	[USE_TISSUE_TEMPLATE:CLAW:CLAW_TEMPLATE]
 	[TISSUE_LAYER:BY_CATEGORY:TOE:CLAW:FRONT]
 	[TISSUE_LAYER_BY_CATEGORY:UPPERBODY:BONE:TOP] - I'm not really sure if this is the correct position.
-	[TISSUE_LAYER_BY_CATEGORY:LOWERBODY:BONE:TOP] - I'm not really sure if this is the correct position. 
+	[TISSUE_LAYER_BY_CATEGORY:LOWERBODY:BONE:TOP] - I'm not really sure if this is the correct position.
 	[BODY_SIZE:0:0:3000]
 	[BODY_SIZE:2:0:20000]
 	[BODY_SIZE:10:0:60000]
@@ -3694,8 +3694,6 @@ creature_neopet_generic
 
 	[SPHERE:BLIGHT]
 	[SPHERE:MURDER]
-	[SPHERE:LUST]
-	[SPHERE:MISERY]
 	[SPHERE:DARKNESS]
 	[SPHERE:REVENGE]
 
@@ -3741,8 +3739,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:IXI]
 	[DESCRIPTION:A dainty, goat-like, adventurous Neopet.]
-	[NAME:ixi:ixi:ixi]
-	[CASTE_NAME:ixi:ixi:ixi]
+	[NAME:ixi:ixis:ixi]
+	[CASTE_NAME:ixi:ixis:ixi]
 	[CREATURE_TILE:'i'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:curiosity]
@@ -4151,8 +4149,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:JUBJUB]
 	[DESCRIPTION:A round fluffy Neopet with two feet and no arms.]
-	[NAME:jubjub:jubjub:jubjub]
-	[CASTE_NAME:jubjub:jubjub:jubjub]
+	[NAME:jubjub:jubjubs:jubjub]
+	[CASTE_NAME:jubjub:jubjubs:jubjub]
 	[CREATURE_TILE:'j'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:rolling around]
@@ -4723,7 +4721,7 @@ creature_neopet_generic
 
 	[SPHERE:LUCK]
 	[SPHERE:FAMILY]
-	[SPHERE:YOUTH]
+	[SPHERE:ANIMALS]
 	[SPHERE:SONG]
 
 	[SKILL_RATE:ARMOR:115:8:16:19]
@@ -4745,8 +4743,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:KIKO]
 	[DESCRIPTION:A round, floating Neopet with 2 arms and no legs. They are playful creatures who like exciting thrills and spills like theme parks and water jets.]
-	[NAME:kiko:kiko:kiko]
-	[CASTE_NAME:kiko:kiko:kiko]
+	[NAME:kiko:kikos:kiko]
+	[CASTE_NAME:kiko:kikos:kiko]
 	[CREATURE_TILE:'k'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:lack of legs]
