@@ -6,3 +6,4 @@ descriptor_color_neopets
 	[NAME:rainbow]
 	[WORD:RAINBOW]
 	[RGB:255:215:0] gold #FFD700
+	-RGB:230:230:250- for Lavender
