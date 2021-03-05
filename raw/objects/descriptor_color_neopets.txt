@@ -1,0 +1,8 @@
+descriptor_color_neopets
+
+[OBJECT:DESCRIPTOR_COLOR]
+
+[COLOR:RAINBOW]
+	[NAME:rainbow]
+	[WORD:RAINBOW]
+	[RGB:255:215:0] gold #FFD700
