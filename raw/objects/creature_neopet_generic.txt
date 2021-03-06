@@ -863,6 +863,8 @@ creature_neopet_generic
 	[NATURAL_SKILL:PLAY_PERCUSSION_INSTRUMENT:3]
 	[NATURAL_SKILL:MINING:5]
 
+================================================================================
+
 [CREATURE:BRUCE]
 	[DESCRIPTION:A penguin-like Neopet that loves snow and ice.]
 	[NAME:bruce:bruces:bruce]
