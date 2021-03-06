@@ -7053,8 +7053,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:MYNCI]
 	[DESCRIPTION:A monkey-like Neopet that uses its tail to grasp things.]
-	[NAME:mynci:mynci:mynci]
-	[CASTE_NAME:mynci:mynci:mynci]
+	[NAME:mynci:myncis:mynci]
+	[CASTE_NAME:mynci:myncis:mynci]
 	[CREATURE_TILE:'m'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:natural agility]
@@ -7303,7 +7303,7 @@ creature_neopet_generic
 		[ATTACK_SKILL:STANCE_STRIKE]
 		[ATTACK_VERB:kick:kicks]
 		[ATTACK_CONTACT_PERC:100]
-		[ATTACK_PREPARE_AND_RECOVER:4:4] - might lower this?
+		[ATTACK_PREPARE_AND_RECOVER:3:3] - might lower this?
 		[ATTACK_FLAG_WITH]
 		[ATTACK_PRIORITY:MAIN]
 		ATTACK_FLAG_BAD_MULTIATTACK - removed but needs testing
@@ -7466,8 +7466,8 @@ creature_neopet_generic
 ===============================================================================
 [CREATURE:OGRIN]
 	[DESCRIPTION:A fast, shy quadruped Neopet.]
-	[NAME:ogrin:ogrin:ogrin]
-	[CASTE_NAME:ogrin:ogrin:ogrin]
+	[NAME:ogrin:ogrins:ogrin]
+	[CASTE_NAME:ogrin:ogrins:ogrin]
 	[CREATURE_TILE:'o'][COLOR:2:1:1]
 	[CREATURE_CLASS:GENERAL_POISON]
 	[PREFSTRING:speed][PREFSTRING:stripes]
@@ -7720,7 +7720,7 @@ creature_neopet_generic
 		[ATTACK_PRIORITY:SECOND]
 		[ATTACK_FLAG_BAD_MULTIATTACK]
 	[ATTACK:TAIL_SMACK:BODYPART:BY_CATEGORY:TAIL]
-		[ATTACK_SKILL:GRASP_STRIKE]
+		[ATTACK_SKILL:STANCE_STRIKE]
 		[ATTACK_VERB:tail smack:tail smacks]
 		[ATTACK_CONTACT_PERC:100]
 		[ATTACK_PENETRATION_PERC:100]
@@ -7834,7 +7834,6 @@ creature_neopet_generic
 	[SPHERE:RULERSHIP]
 	[SPHERE:FAME]
 
-	[SKILL_RATE:WHIP:115:8:16:19]
 	[SKILL_RATE:DAGGER:115:8:16:19]
 	[SKILL_RATE:WRITING:115:8:16:19]
 	[SKILL_RATE:FLUID_ENGINEER:115:8:16:19]
