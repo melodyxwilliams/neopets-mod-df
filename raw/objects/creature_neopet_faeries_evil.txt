@@ -1,14 +1,14 @@
-creature_neopet_faeries
+creature_neopet_faeries_evil
 
 [OBJECT:CREATURE]
 
 - Started from human raws
-[CREATURE:FAERIE]
-	[DESCRIPTION:Faeries are magical beings who sustain the land and confer blessings on its inhabitants. They look like winged human women. Fyoran Faeries follow the path of Queen Fyora, making them good-aligned.]
-	[NAME:fyoran faerie:fyoran faeries:fyoran faerie]
-	[CASTE_NAME:fyoran faerie:fyoran faeries:fyoran faerie]
+[CREATURE:FAERIE_EVIL]
+	[DESCRIPTION:Faeries are magical beings who sustain the land and confer blessings on its inhabitants. They look like winged human women. Dark Faeries are not interested in spreading kindness.]
+	[NAME:dark faerie:dark faeries:dark faerie]
+	[CASTE_NAME:dark faerie:dark faeries:dark faerie]
 	[OUTSIDER_CONTROLLABLE]
-	[CREATURE_TILE:'F'][COLOR:3:0:1] bright cyan
+	[CREATURE_TILE:'F'][COLOR:4:0:1] bright red
 	[CREATURE_SOLDIER_TILE:154]
 	[CREATURE_CLASS:MAMMAL]
 	[INTELLIGENT]
@@ -25,7 +25,7 @@ creature_neopet_faeries
 	[SMELL_TRIGGER:90]
 	[HOMEOTHERM:10067]
 
-	[GOOD]
+	[EVIL]
 
 	[BODY:HUMANOID_NECK:2EYES:2EARS:NOSE:2LUNGS:HEART:GUTS:ORGANS:2WINGS:HUMANOID_JOINTS:THROAT:NECK:SPINE:BRAIN:SKULL:5FINGERS:5TOES:MOUTH:TONGUE:FACIAL_FEATURES:TEETH:RIBCAGE]
   [RELSIZE:BY_CATEGORY:WING:750] bigger wings
