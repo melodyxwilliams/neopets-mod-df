@@ -223,6 +223,8 @@ creature_neopet_faeries
 
 ================================================================================
 	[CASTE:EARTH]
+		[FEMALE]
+		[POP_RATIO:10000]
 		[CASTE_NAME:earth faerie:earth faeries:earth faerie]
 		[CASTE_TILE:'E']
 		[CASTE_COLOR:2:0:1]
@@ -276,6 +278,8 @@ creature_neopet_faeries
 
 ================================================================================
 	[CASTE:WATER]
+		[FEMALE]
+		[POP_RATIO:10000]
 		[CASTE_NAME:water faerie:water faeries:water faerie]
 		[CASTE_TILE:'W']
 		[CASTE_COLOR:1:0:1]
@@ -329,6 +333,8 @@ creature_neopet_faeries
 
 ================================================================================
 	[CASTE:FIRE]
+		[FEMALE]
+		[POP_RATIO:10000]
 		[CASTE_NAME:fire faerie:fire faeries:fire faerie]
 		[CASTE_TILE:'F']
 		[CASTE_COLOR:4:0:1]
@@ -382,6 +388,8 @@ creature_neopet_faeries
 
 ================================================================================
 	[CASTE:AIR]
+		[FEMALE]
+		[POP_RATIO:10000]
 		[CASTE_NAME:air faerie:air faeries:air faerie]
 		[CASTE_TILE:'A']
 		[CASTE_COLOR:3:0:1]
@@ -435,6 +443,8 @@ creature_neopet_faeries
 
 ================================================================================
 	[CASTE:LIGHT]
+		[FEMALE]
+		[POP_RATIO:10000]
 		[CASTE_NAME:light faerie:light faeries:light faerie]
 		[CASTE_TILE:'L']
 		[CASTE_COLOR:6:0:1]
@@ -488,6 +498,8 @@ creature_neopet_faeries
 
 ================================================================================
 	[CASTE:DARKNESS]
+		[FEMALE]
+		[POP_RATIO:10000]
 		[CASTE_NAME:darkness faerie:darkness faeries:darkness faerie]
 		[CASTE_TILE:'D']
 		[CASTE_COLOR:5:0:1]
@@ -541,6 +553,57 @@ creature_neopet_faeries
 
 ================================================================================
 
+	[CASTE:M]
+		[MALE]
+		[POP_RATIO:1]
+		[CASTE_NAME:faerie:faeries:faerie]
+		[SET_TL_GROUP:BY_CATEGORY:WING:SKIN]
+			[TL_COLOR_MODIFIER:BLACK:1:CHARCOAL:1:MAROON:1:TAUPE_DARK:1:DARK_GREEN:1:DARK_SCARLET:1:DARK_INDIGO:2:DARK_VIOLET:2:PLUM:1:MIDNIGHT_BLUE:1]
+			[TLCM_NOUN:wings:PLURAL]
+		[SET_TL_GROUP:BY_CATEGORY:ALL:NAIL]
+			[TL_COLOR_MODIFIER:BLACK:1:CHARCOAL:1:MAROON:1:TAUPE_DARK:1:DARK_GREEN:1:DARK_SCARLET:1:DARK_INDIGO:2:DARK_VIOLET:2:PLUM:1:MIDNIGHT_BLUE:1]
+			[TLCM_NOUN:nails:PLURAL]
+		[SET_TL_GROUP:BY_CATEGORY:HEAD:HAIR]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:CHEEK_WHISKERS]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:CHIN_WHISKERS]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:MOUSTACHE]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:SIDEBURNS]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:EYEBROW]
+		 [PLUS_TL_GROUP:BY_CATEGORY:EYELID:EYELASH]
+			[TL_COLOR_MODIFIER:BLACK:1:CHARCOAL:1:MAROON:1:TAUPE_DARK:1:DARK_GREEN:1:DARK_SCARLET:1:DARK_INDIGO:2:DARK_VIOLET:2:PLUM:1:MIDNIGHT_BLUE:1]
+				[TLCM_NOUN:hair:SINGULAR]
+		[SET_TL_GROUP:BY_CATEGORY:HEAD:EYEBROW]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:LENGTH:50:80:90:100:110:120:150]
+				[APP_MOD_NOUN:eyebrows:PLURAL]
+				[APP_MOD_DESC_RANGE:55:70:90:110:130:145]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:DENSE:50:80:90:100:110:120:150]
+				[APP_MOD_NOUN:eyebrows:PLURAL]
+				[APP_MOD_DESC_RANGE:55:70:90:110:130:145]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:HIGH_POSITION:0:70:90:100:110:130:200]
+				[APP_MOD_NOUN:eyebrows:PLURAL]
+		[SET_TL_GROUP:BY_CATEGORY:EYELID:EYELASH]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:LENGTH:50:80:90:100:110:120:150]
+				[APP_MOD_NOUN:eyelashes:PLURAL]
+				[APP_MOD_DESC_RANGE:55:70:90:110:130:145]
+		[SET_TL_GROUP:BY_CATEGORY:HEAD:HAIR]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:CHEEK_WHISKERS]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:CHIN_WHISKERS]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:MOUSTACHE]
+		 [PLUS_TL_GROUP:BY_CATEGORY:HEAD:SIDEBURNS]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:LENGTH:0:70:90:100:110:130:200]
+				[APP_MOD_NOUN:hair:SINGULAR]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:CURLY:0:70:90:100:110:130:200]
+				[APP_MOD_NOUN:hair:SINGULAR]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:GREASY:0:70:90:100:110:130:200]
+				[APP_MOD_NOUN:hair:SINGULAR]
+			[TISSUE_LAYER_APPEARANCE_MODIFIER:DENSE:50:80:90:100:110:120:150]
+				[APP_MOD_NOUN:hair:SINGULAR]
+				[APP_MOD_DESC_RANGE:55:70:90:110:130:145]
+		[SET_TL_GROUP:BY_CATEGORY:HEAD:HAIR]
+			[TISSUE_STYLE_UNIT:HAIR:STANDARD_HAIR_SHAPINGS]
+				[TSU_NOUN:hair:SINGULAR]
+
+================================================================================
 	[SELECT_CASTE:ALL]
 
 		[SET_TL_GROUP:BY_CATEGORY:ALL:SKIN]
