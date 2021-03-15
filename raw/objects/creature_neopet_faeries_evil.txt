@@ -223,6 +223,7 @@ creature_neopet_faeries_evil
 
 ================================================================================
 	[CASTE:EARTH]
+		[POP_RATIO:10000]
 		[FEMALE]
 		[CASTE_NAME:earth faerie:earth faeries:earth faerie]
 		[CASTE_TILE:'E']
@@ -277,6 +278,7 @@ creature_neopet_faeries_evil
 
 ================================================================================
 	[CASTE:WATER]
+		[POP_RATIO:10000]
 		[FEMALE]
 		[CASTE_NAME:water faerie:water faeries:water faerie]
 		[CASTE_TILE:'W']
@@ -331,6 +333,7 @@ creature_neopet_faeries_evil
 
 ================================================================================
 	[CASTE:FIRE]
+		[POP_RATIO:10000]
 		[FEMALE]
 		[CASTE_NAME:fire faerie:fire faeries:fire faerie]
 		[CASTE_TILE:'F']
@@ -385,6 +388,7 @@ creature_neopet_faeries_evil
 
 ================================================================================
 	[CASTE:AIR]
+		[POP_RATIO:10000]
 		[FEMALE]
 		[CASTE_NAME:air faerie:air faeries:air faerie]
 		[CASTE_TILE:'A']
@@ -439,6 +443,7 @@ creature_neopet_faeries_evil
 
 ================================================================================
 	[CASTE:LIGHT]
+		[POP_RATIO:5000]
 		[FEMALE]
 		[CASTE_NAME:light faerie:light faeries:light faerie]
 		[CASTE_TILE:'L']
@@ -493,6 +498,7 @@ creature_neopet_faeries_evil
 
 ================================================================================
 	[CASTE:DARKNESS]
+		[POP_RATIO:15000]
 		[FEMALE]
 		[CASTE_NAME:darkness faerie:darkness faeries:darkness faerie]
 		[CASTE_TILE:'D']

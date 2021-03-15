@@ -444,7 +444,7 @@ creature_neopet_faeries
 ================================================================================
 	[CASTE:LIGHT]
 		[FEMALE]
-		[POP_RATIO:10000]
+		[POP_RATIO:15000]
 		[CASTE_NAME:light faerie:light faeries:light faerie]
 		[CASTE_TILE:'L']
 		[CASTE_COLOR:6:0:1]
@@ -499,7 +499,7 @@ creature_neopet_faeries
 ================================================================================
 	[CASTE:DARKNESS]
 		[FEMALE]
-		[POP_RATIO:10000]
+		[POP_RATIO:5000]
 		[CASTE_NAME:darkness faerie:darkness faeries:darkness faerie]
 		[CASTE_TILE:'D']
 		[CASTE_COLOR:5:0:1]
